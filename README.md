@@ -1,7 +1,7 @@
 # 🌤️ Weather Dashboard
 
 A beautiful, responsive weather dashboard built with **React.js** that provides real-time weather data and 5-day forecasts for any city worldwide.
-
+🔗 **Live Demo:** [weather-dashboard-shez8.vercel.app](https://weather-dashboard-shez8.vercel.app)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/CSS3-Glassmorphism-1572B6?style=for-the-badge&logo=css3)
@@ -99,20 +99,11 @@ weather-dashboard/
 - **Responsive Grid** — CSS Grid layout adapting to all screen sizes
 - **Custom Scrollbar** — Styled scrollbar matching the theme
 
-## 📸 Screenshots
-
-| Dark Mode | Light Mode |
-|-----------|------------|
-| Modern dark theme with glass effects | Clean light theme |
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ⭐ **If you found this project helpful, give it a star!**
